@@ -41,4 +41,6 @@ Estudiante de Ingeniería de Telecomunicaciones con renfoque en redes y ciberseg
   
 </p>
 
+---
+
 ¡Gracias por pasar por mi perfil! 🚀
