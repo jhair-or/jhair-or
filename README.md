@@ -4,7 +4,7 @@
 ## 💻 Tech Stack:
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -20,12 +20,11 @@
 
 ## 👨🏻‍💻 About Me
 
-Estudiante de Ingeniería de Telecomunicaciones con renfoque en redes y ciberseguridad con evolución diaria
-- 📜 Certificado en **eJPT v2** (eLearnSecurity Junior Penetration Tester).
-- 🎯 Actualmente preparándome para la certificación **CCNA 200-301**.
-- 🚩 Jugador activo de competencias CTF (Capture The Flag).
-- ✉️ &nbsp;You can shoot me an email at jhair.delacruz@unmsm.edu.pe I'll try to respond as soon as I can.\
-
+Telecommunications Engineering student specializing in networks and cybersecurity, constantly evolving.
+- 📜 Certified in **eJPT v2** (eLearnSecurity Junior Penetration Tester).
+- 🎯 Currently preparing for the **CCNA 200-301** certification.
+- 🚩 Active participant in CTF (Capture The Flag) competitions.
+- ✉️ You can email me at jhair.delacruz@unmsm.edu.pe. I will try to respond as soon as possible.
 
 <div align="center"> </div>
 
@@ -43,4 +42,4 @@ Estudiante de Ingeniería de Telecomunicaciones con renfoque en redes y ciberseg
 
 ---
 
-¡Gracias por pasar por mi perfil! 🚀
+Thanks for visiting my profile! 🚀
