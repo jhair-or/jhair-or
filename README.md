@@ -31,11 +31,11 @@ Telecommunications Engineering student specializing in networks and cybersecurit
 ## Contact Me :
 
 <p>
-    <a href="[https://www.linkedin.com/in/lahiru-jayakodi-b912b0217](https://www.linkedin.com/in/jhair-de-la-cruz-lopez/)">
+    <a href= "https://www.linkedin.com/in/jhair-de-la-cruz-lopez/"">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
     </a> 
     <a href="jhair.delacruz@unmsm.edu.pe">
-        <img src="[https://img.shields.io/badge/stackoverflow-%23E4405F.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" height=35>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=35>
     </a>
   
 </p>
